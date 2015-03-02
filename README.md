@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+=============
+
+Hi Humans
+
+Mufutau here,
+I like C/C++, JAVA, Python, MATLAB
+
